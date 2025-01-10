@@ -36,5 +36,8 @@ They've just started using new CRM system to track their oppoortunities but have
 For any questions or support, please reach out to Ranjan234.
 
 Would you like me to update the README.md file with this content?
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
    
