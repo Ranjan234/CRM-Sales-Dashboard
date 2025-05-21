@@ -23,10 +23,7 @@ They've just started using new CRM system to track their oppoortunities but have
 - **Report Generation:** Create comprehensive sales reports with ease.
 - **Customizable:** Adapt the dashboard to fit the specific needs of your sales team.
 
-## Getting Started
-
-![Openincsvfile](:https://docs.google.com/spreadsheets/d/e/2PACX-1vTCNdZsW8Zi7fouytcjcj1kfsfkjRAIb-VZnRwEK-nPqB7ujaceQ7ZigW7uYX455DSL-hIXzsMKDxvZ/pub?gid=966532129&single=true&output=csv)
-![Openinpdffile](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCNdZsW8Zi7fouytcjcj1kfsfkjRAIb-VZnRwEK-nPqB7ujaceQ7ZigW7uYX455DSL-hIXzsMKDxvZ/pub?gid=966532129&single=true&output=pdf)
+## Dashboard 
 
 ![Dashboard Screenshot](https://github.com/Ranjan234/CRM-Sales-Dashboard/blob/main/Screenshot%202025-05-21%20085837.png)
 
